@@ -1,1 +1,5 @@
-# desenvolve-python-basico
+# Projeto Desenvolve - Itabira 
+
+## Programação Básica com Python
+
+**Matrícula:** PDITA835
