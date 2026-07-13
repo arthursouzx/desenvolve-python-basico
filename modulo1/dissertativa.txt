@@ -1,0 +1,13 @@
+Solução dissertativa
+
+-Leia e armazene o número n que se deseja multiplicar por 9 #Entrada
+-Subtrair n-1 e armazenar como o primeiro digito #Processamento
+-Subtrair 10-n e armazenar como o segundo dígito #Processamento
+-Realize a expressão (n1 x 10) + n1 e armazene como resultado final r #Processamento
+-Apresente r (Resultado Final) e encerre o programa #Saída
+
+ex: 9x5= n-1, 10-n 9x5- 5-1, 10-5
+9x5= (n-1)x10 + (10-n)
+9x5- (5-1)x10 + (10-5)
+9x5= 4x10 +5
+9x5=45
